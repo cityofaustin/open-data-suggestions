@@ -1,6 +1,6 @@
 # Open Data Suggestions
 
-This repo is place for sharing suggestions about open data to the City of Austin. It is also a place for City staff to collaborate on the processing of those suggestions. 
+This repo is for sharing suggestions about open data with City of Austin staff. It is also a place for City staff to collaborate on the processing of those suggestions. 
 
 To submit an idea or suggest a new open dataset, please open a new issue [here](https://github.com/cityofaustin/open-data-suggestions/issues/new). We'll do our best to get back to you as soon as possible. *(This approach is new for us, so please reach out again if we mistakenly lose touch with you!)*
 
@@ -24,11 +24,11 @@ Additional guidelines forthcoming. In the meantime, please contribute by:
 
 ### Have a look at the draft [process diagram](https://www.lucidchart.com/invitations/accept/66c6a437-c3ab-4e6f-a05a-4bf977fa567c)
 * Please open [issues](https://github.com/cityofaustin/open-data-suggestions/issues/new) to share your thoughts on what's missing, what's good, what's not so good, etc.
-* If you want to help edit the diagram, post an issue or email hailey.pate@austintexas.gov and request an invite to LucidCharts
+* If you want to help improve the diagram, post an issue or email hailey.pate@austintexas.gov and request an invite to LucidCharts
 
 ### Check out the current [suggestion feature](https://data.austintexas.gov/nominate)
 * Leave us some [feedback](https://github.com/cityofaustin/open-data-suggestions/issues) about what could be working differently or better. 
-* See also "Suggest a Dataset" [destination](https://data.austintexas.gov/dataset/Request-a-Data-Set/3k53-dsif) from our portal's front page. 
+* See also the "Suggest a Dataset" [destination](https://data.austintexas.gov/dataset/Request-a-Data-Set/3k53-dsif) that's currently referenced on our portal's [front page](https://data.austintexas.gov). 
 
 ## Credits
 
