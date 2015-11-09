@@ -4,19 +4,21 @@ This repo is for sharing suggestions about open data with City of Austin staff. 
 
 To submit an idea or suggest a new open dataset, please open a new issue [here](https://github.com/cityofaustin/open-data-suggestions/issues/new). We'll do our best to get back to you as soon as possible. *(This approach is new for us, so please reach out again if we mistakenly lose touch with you!)*
 
+#### Why we're doing this
+
+Austin's open data portal offers a feature for collecting new dataset suggestions from the public, but currently there is no simple way to track the evaluation and outcomes of those suggestions. The City wants to provide timely review of new suggestions and share the evaluation status of each in as close to real time as possible.
+
+Some suggestions may be simple to accept or deploy, while others may require legal or committee review. We likely won't capture everything at first, but it's important that we get the documentation started.
+
 #### Contributing terms
 
 When you contribute to this project, you are sharing and/or creating content. Please do not contribute content unless you agree with the terms [here](https://github.com/cityofaustin/open-data-suggestions/blob/master/CONTRIBUTING.md).
 
 #### Current project goals
 
-We need to identify the steps to be taken in order to successfully process a suggestion. Some suggestions will be easy to accept and deploy, while others may require legal or committee review. We likely won't capture everything at first, but it's important that we get the documentation started.
-
-It is also an early priority to have a plan for identifying public information requests so suggestion reviewers can ensure those requests are re-routed to the appropriate staff members.
-
-#### Why we're doing this
-
-Austin's open data portal offers a feature for collecting new dataset suggestions from the public, but currently there is no simple way to track the evaluation and outcomes of those suggestions. The City wants to provide timely review of new suggestions and share the evaluation status of each in as close to real time as possible.
+* Explore and document what it means to successfully process an open data suggestion. 
+* Start developing a pipeline so staff can collaborate to process suggestions effectively
+* Have a plan for identifying public information requests (PIRs) so suggestion reviewers can ensure those requests are re-routed to appropriate City staff.
 
 ## How to contribute
 
