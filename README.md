@@ -20,7 +20,7 @@ When you contribute to this project, you are sharing and/or creating content. Pl
 * Start developing a pipeline so staff can collaborate to process suggestions effectively
 * Have a plan for identifying public information requests (PIRs) so suggestion reviewers can ensure those requests are re-routed to appropriate City staff.
 
-## How to contribute
+## Ways to contribute
 
 Additional guidelines forthcoming. In the meantime, please contribute by:
 
