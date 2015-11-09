@@ -26,9 +26,12 @@ Additional guidelines forthcoming. In the meantime, please contribute by:
 * Please open [issues](https://github.com/cityofaustin/open-data-suggestions/issues/new) to share your thoughts on what's missing, what's good, what's not so good, etc.
 * If you want to help improve the diagram, post an issue or email hailey.pate@austintexas.gov and request an invite to LucidCharts
 
-### Check out the current [suggestion feature](https://data.austintexas.gov/nominate)
-* Leave us some [feedback](https://github.com/cityofaustin/open-data-suggestions/issues) about what could be working differently or better. 
+### Explore and review our portal's [current suggestion feature](https://data.austintexas.gov/nominate)
+* Leave us some [feedback](https://github.com/cityofaustin/open-data-suggestions/issues/new) about what could be working differently or better. 
 * See also the "Suggest a Dataset" [destination](https://data.austintexas.gov/dataset/Request-a-Data-Set/3k53-dsif) that's currently referenced on our portal's [front page](https://data.austintexas.gov). 
+
+### Try suggesting a new dataset
+Please note, we're still developing a process for giving you a most excellent customer experience. If you don't mind being a test subject, go ahead and [open an issue](https://github.com/cityofaustin/open-data-suggestions/issues/new) to share your idea!
 
 ## Credits
 
