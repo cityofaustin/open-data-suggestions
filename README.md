@@ -33,14 +33,14 @@ Additional guidelines forthcoming. In the meantime, please contribute by:
 ### Try suggesting a new dataset
 Please note, we're still developing a process for giving you a most excellent customer experience. If you don't mind being a test subject, go ahead and [open an issue](https://github.com/cityofaustin/open-data-suggestions/issues/new) to share your idea!
 
-## Credits
+#### Credits
 
 Coming soon
 
-## History
+#### History
 
 Coming soon.
 
-## License
+#### License
 
 [Unlicense](https://github.com/city-of-austin/open-data-suggestions/blob/master/LICENSE.md)
