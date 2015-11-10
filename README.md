@@ -2,6 +2,8 @@
 
 This repo is for sharing suggestions about open data with City of Austin staff. It is also a place for City staff to collaborate on the processing of those suggestions. 
 
+Not a frequent GitHub user? Try viewing this project activity on [Waffle.io/cityofaustin](https://waffle.io/cityofaustin/open-data-suggestions). Same stuff, just less "techy" =)
+
 To submit an idea or suggest a new open dataset, please open a new issue [here](https://github.com/cityofaustin/open-data-suggestions/issues/new). We'll do our best to get back to you as soon as possible. *(This approach is new for us, so please reach out again if we mistakenly lose touch with you!)*
 
 #### Why we're doing this
