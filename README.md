@@ -26,7 +26,7 @@ When you contribute to this project, you are sharing and/or creating content. Pl
 
 Additional guidelines forthcoming. In the meantime, please contribute by:
 
-### Have a look at the draft [process diagram](https://www.lucidchart.com/invitations/accept/66c6a437-c3ab-4e6f-a05a-4bf977fa567c)
+### Have a look at the draft [process diagram](https://www.lucidchart.com/documents/view/f90169e8-ed7f-44ae-9688-af811b2e43a1)
 * Please open [issues](https://github.com/cityofaustin/open-data-suggestions/issues/new) to share your thoughts on what's missing, what's good, what's not so good, etc.
 * If you want to help improve the diagram, post an issue or email hailey.pate@austintexas.gov and request an invite to LucidCharts
 
