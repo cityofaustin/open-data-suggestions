@@ -1,10 +1,14 @@
-# Open Data Suggestions
+# Open Data Suggestions (experimental)
 
-This repo is for sharing suggestions about open data with City of Austin staff. It is also a place for City staff to collaborate on the processing of those suggestions. 
+This repo will be for sharing suggestions about open data with City of Austin staff. It is also a place for City staff to collaborate on the processing of those suggestions. 
 
 Not a frequent GitHub user? Try viewing this project activity on [Waffle.io/cityofaustin](https://waffle.io/cityofaustin/open-data-suggestions). Same stuff, just less "techy" =)
 
-To submit an idea or suggest a new open dataset, please open a new issue [here](https://github.com/cityofaustin/open-data-suggestions/issues/new). We'll do our best to get back to you as soon as possible. *(This approach is new for us, so please reach out again if we mistakenly lose touch with you!)*
+#### Current goals
+
+* Explore and document what it means to successfully process an open data suggestion. 
+* Start developing a pipeline so staff can collaborate to process suggestions effectively
+* Have a plan for identifying public information requests (PIRs) so suggestion reviewers can ensure those requests are re-routed to appropriate City staff.
 
 #### Why we're doing this
 
@@ -12,19 +16,11 @@ Austin's open data portal offers a feature for collecting new dataset suggestion
 
 Some suggestions may be simple to accept or deploy, while others may require legal or committee review. We likely won't capture everything at first, but it's important that we get the documentation started.
 
-#### Contributing terms
 
-When you contribute to this project, you are sharing and/or creating content. Please do not contribute content unless you agree with the terms [here](https://github.com/cityofaustin/open-data-suggestions/blob/master/CONTRIBUTING.md).
-
-#### Current project goals
-
-* Explore and document what it means to successfully process an open data suggestion. 
-* Start developing a pipeline so staff can collaborate to process suggestions effectively
-* Have a plan for identifying public information requests (PIRs) so suggestion reviewers can ensure those requests are re-routed to appropriate City staff.
 
 ## Ways to contribute
 
-Additional guidelines forthcoming. In the meantime, please contribute by:
+*Contributing Terms*: When you contribute to this project, you are sharing and/or creating content. Please do not contribute content unless you agree with the terms [here](https://github.com/cityofaustin/open-data-suggestions/blob/master/CONTRIBUTING.md).
 
 ### Have a look at the draft [process diagram](https://www.lucidchart.com/documents/view/f90169e8-ed7f-44ae-9688-af811b2e43a1)
 * Please open [issues](https://github.com/cityofaustin/open-data-suggestions/issues/new) to share your thoughts on what's missing, what's good, what's not so good, etc.
