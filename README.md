@@ -1,6 +1,6 @@
 # Open Data Suggestions (experimental)
 
-This repo will be for sharing suggestions about open data with City of Austin staff. It is also a place for City staff to collaborate on the processing of those suggestions. 
+This repo will be for sharing suggestions about open data with City of Austin staff. It will also be a place for City staff to collaborate on the processing of those suggestions. 
 
 Not a frequent GitHub user? Try viewing this project activity on [Waffle.io/cityofaustin](https://waffle.io/cityofaustin/open-data-suggestions). Same stuff, just less "techy" =)
 
