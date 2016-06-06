@@ -1,9 +1,20 @@
-This is a public project dedicated to making the City of Austin even more awesome than it already is. Everyone is welcome to contribute, but before you do so, please take a moment to review the following terms of contribution. 
+### There are three main ways to contribute to this project: 
 
-When you contribute to this project, you are sharing and/or creating content. Please do not contribute content unless you agree with the following:
+## 1. Suggest a new dataset for Austin's Open Data Portal
 
-* The content I am contributing was either created by me or by someone who gave me appropriate permission to reuse their content.
+Who can do this: _Anyone!_
+How to do this: instructions coming soon :D
 
-* I agree that contributions to this project constitute software development. 
+## 2. Respond to a suggestion for Austin's Open Data Portal
 
-* I agree to dedicate any and all copyright interest in this software to the public domain, and I've reviewed and agree to the statements contained in this project's [unlicense](https://github.com/cityofaustin/open-data-suggestions/blob/master/LICENSE.md) document.
+Who can do this:
+- _Anyone_ can comment on a suggestion
+- _Austin City Staff_ can respond to and deliver on suggestions on behalf of the City
+How to do this: instructions coming soon :D
+
+## 3. Help make the suggestion process better
+
+Who can do this:
+- _Anyone!_
+How to do this: Instructions coming soon :D
+
