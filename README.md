@@ -2,7 +2,7 @@
 
 ***
 
-Have an idea for a new open dataset at the City of Austin? Tell us by visiting **more.opendata.rocks**
+Have an idea for a new open dataset at the City of Austin? Tell us by visiting [**more.opendata.rocks**](http://more.opendata.rocks)
 
 ***
 
