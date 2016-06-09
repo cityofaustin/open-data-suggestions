@@ -8,7 +8,7 @@ Have an idea for a new open dataset at the City of Austin? Tell us by visiting [
 
 #### About this project
 
-Austin's open data portal offers a feature for collecting new dataset suggestions from the public, but currently there is no simple way to track the evaluation and outcomes of those suggestions. The City wants to provide timely review of new dataset ideas and share the evaluation status of each in as close to real time as possible.
+Austin's open data portal offers a feature for collecting new dataset suggestions from the public, but currently there is no simple way to track the evaluation and outcomes of those suggestions. The City wants to provide timely review of new dataset ideas and share the evaluation status of each so that it can be tracked throughout the process.
 
 Some suggestions may be simple to accept or deploy, while others may require legal or committee review. We likely won't capture everything at first, but it's important that we get the documentation started.
 
