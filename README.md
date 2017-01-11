@@ -3,10 +3,13 @@
 
 
 ***
+Please note, the correct place to contribute a suggestion for a new or existing open dataset is here: https://data.austintexas.gov/nominate
+***
+
 
 #### About this project
 
-Austin's open data portal offers a feature for collecting new dataset suggestions from the public, but currently there is no simple way to track the evaluation and outcomes of those suggestions. The City wants to provide timely review of new dataset ideas and share the evaluation status of each so that it can be tracked throughout the process.
+Austin's open data portal offers a feature for collecting new dataset suggestions from the public, but currently there is no simple way to track the evaluation and outcomes of those suggestions. There is also no current documentation available that explains which City staff will be responsible for responding to suggestions. The City wants to provide timely review of new dataset ideas and share the evaluation status of each so that it can be tracked throughout the process.
 
 #### Progress to date
 
@@ -14,7 +17,8 @@ To get a baseline understanding of the City's needs and requirements for a stron
 
 #### Next steps
 
-Now that requirements have been outlined, the next step is to develop or obtain a digital product that delivers the required features. 
+- Develop or obtain a digital product that delivers the specified requirements
+- Write documentation that helps users understand their roles in the Open Data Suggestion process. User roles to be addressed include the open data core team, open data liaisons, and suggestors. 
 
 
 We welcome your feedback for improving the open data suggestion process. Share yours with us [here](https://github.com/cityofaustin/open-data-suggestions/issues/new).
